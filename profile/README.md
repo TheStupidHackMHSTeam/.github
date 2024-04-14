@@ -1,4 +1,4 @@
-# Fall Detector
+# WatchGuard
 
 Android App: https://github.com/TheStupidHackMHSTeam/android-app
 
